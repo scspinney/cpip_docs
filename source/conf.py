@@ -65,6 +65,14 @@ html_favicon = ''
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
+html_context = {
+    "display_github": True,
+    "github_user": "scspinney",
+    "github_repo": "cpip_docs",
+    "github_version": "main",
+    "conf_py_path": "/source/",
+}
+
 myst_enable_extensions = [
     "colon_fence"
 ]

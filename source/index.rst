@@ -7,6 +7,7 @@
    DATASETS
    ACCESS
    MRI
+   PHENOTYPING
    DERIVATIVES
    RELEASES
    COC
@@ -20,6 +21,5 @@
 
    Gitlab pipeline configuration </guides/gitlab/index>
    Virtual machine installation </guides/virtual-machine/index>
-
 
 
